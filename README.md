@@ -154,3 +154,6 @@ Please feel free to submit a Pull Request.
 ## Author
 
 **Yafa** - [GitHub](https://github.com/Hodisy)
+
+<img width="450" alt="Crabby" src="https://raw.githubusercontent.com/Hodisy/Crabble/refs/heads/main/artboard.gif" />
+
